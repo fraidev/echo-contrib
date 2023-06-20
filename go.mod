@@ -1,4 +1,4 @@
-module github.com/labstack/echo-contrib
+module github.com/fraidev/echo-contrib
 
 go 1.18
 
